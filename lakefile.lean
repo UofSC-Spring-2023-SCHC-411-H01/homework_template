@@ -1,11 +1,11 @@
 import Lake
 open Lake DSL
 
-package «quiz» {
+package «hw» {
   -- add package configuration options here
 }
 
 @[default_target]
-lean_lib «Quiz» {
+lean_lib «Hw» {
   -- add library configuration options here
 }
